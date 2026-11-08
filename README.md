@@ -11,7 +11,7 @@ The goal of this project is to implement, evaluate, and deploy multiple Machine 
 * **Target Variable:** Binary Classification (`target`): High Quality ($\ge 6$, Class 1) vs. Low Quality ($< 6$, Class 0).
 
 ## c. GitHub Repository Link
-* **GitHub Repository:** [INSERT_YOUR_GITHUB_REPO_URL_HERE]
+* **GitHub Repository:** https://github.com/PrateekMPune2026/ML-Assignment-2-BITS
 * **Live Streamlit App:** https://redwinequality.streamlit.app/
 
 ## d. Models Used & Comparison Table
