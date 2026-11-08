@@ -12,7 +12,7 @@ The goal of this project is to implement, evaluate, and deploy multiple Machine 
 
 ## c. GitHub Repository Link
 * **GitHub Repository:** [INSERT_YOUR_GITHUB_REPO_URL_HERE]
-* **Live Streamlit App:** [INSERT_YOUR_STREAMLIT_APP_URL_HERE]
+* **Live Streamlit App:** https://redwinequality.streamlit.app/
 
 ## d. Models Used & Comparison Table
 
